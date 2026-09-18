@@ -72,7 +72,7 @@ A RAG-based healthcare assistant using FAISS and Sentence Transformers for seman
 A full-stack e-learning platform with course upload, user management, and content delivery, including a database schema and auth flow supporting multi-user course access and progress tracking.
 `JavaScript` `Supabase` `Netlify`
 
-> Replace `YOUR-USERNAME` with your actual GitHub handle and link each repo to its real URL. Add the `[Link]`/live-demo URLs from your resume to each project section too.
+
 
 ---
 
